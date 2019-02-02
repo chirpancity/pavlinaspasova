@@ -1,4 +1,4 @@
-﻿Pavlina Spasova e bukluk
+﻿Pavlina Spasova e bukluk.
 <html>
 <head>
   <title>Multiplication Table</title>
